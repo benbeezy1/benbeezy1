@@ -5,7 +5,7 @@
 <h3>LABS:</h3>
 
 - <b>Compute</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Lab 01 — Create EC2 Instance and Connect using RDC](https://github.com/benbeezy1/AWS-Labs/tree/main/Compute/Lab-01-create-ec2-rdc)
 - <b>Database</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Storage</b>
