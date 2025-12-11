@@ -28,7 +28,7 @@
 
 <h2> 📋 Certifications</h2>
 
-  - [AWS Certified Cloud Practitioner](https://imgur.com/a/GbKWTVe)
+  - [AWS Certified Cloud Practitioner](https://github.com/benbeezy1/AWS-Certifications/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
   - [AWS Cloud Practitioner Essentials](https://www.coursera.org/account/accomplishments/certificate/RP4T38G255Q0)
 
 
