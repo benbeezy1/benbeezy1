@@ -1,6 +1,8 @@
 <h1>Hi, I'm Benjamin! </h1>
 
-<h2>👨‍💻 AWS Cloud Projects:</h2>
+<h2>👨‍💻 AWS Portfolio:</h2>
+
+<h3>LABS:</h3>
 
 - <b>Compute</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -15,14 +17,19 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - 
 - <b>Security and Compliance</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+    
+<h3>PROJECTS:</h3> 
+
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2> 📋:Certifications</h2>
-- [AWS Certified Cloud Practitioner](https://coursera.org/share/3b12d7a3ca661ca66c831dfffc32361e)
-- [AWS Cloud Practitioner Essentials](https://coursera.org/share/3b12d7a3ca661ca66c831dfffc32361e)
+<h2> 📋 Certifications</h2>
+
+  - [AWS Certified Cloud Practitioner](https://imgur.com/a/GbKWTVe)
+  - [AWS Cloud Practitioner Essentials](https://coursera.org/share/3b12d7a3ca661ca66c831dfffc32361e)
 
 
 
@@ -33,12 +40,12 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[twitter]: xx
+[youtube]: xx
+[instagram]: https://www.instagram.com/benbeezy__
 [linkedin]: www.linkedin.com/in/benjamin-olowu
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**benbeezy1/benbeezy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
