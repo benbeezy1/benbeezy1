@@ -24,6 +24,8 @@
 <h3>PROJECTS:</h3> 
 
   - [Hosting Static Website using S3](https://github.com/benbeezy1/AWS-Projects/blob/main/Project%201/README.md)
+  - [Configure Metrics and Alarms in Amazon CloudWatch](https://github.com/benbeezy1/AWS-Projects/tree/main/Project%202/README.md)
+
 
 <h2> 📋 Certifications</h2>
 
