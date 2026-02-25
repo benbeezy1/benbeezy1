@@ -25,12 +25,15 @@
 
   - [Hosting Static Website using S3](https://github.com/benbeezy1/AWS-Projects/blob/main/Project%201/README.md)
   - [Configure Metrics and Alarms in Amazon CloudWatch](https://github.com/benbeezy1/AWS-Projects/tree/main/Project%202/README.md)
+  - [AWS Systems Manager Run Command on EC2 ](https://github.com/benbeezy1/AWS-Projects/blob/main/Project%203/README.md)
+
 
 
 <h2> 📋 Certifications</h2>
 
   - [AWS Certified Cloud Practitioner](https://github.com/benbeezy1/AWS-Certifications/blob/main/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
   - [AWS Cloud Practitioner Essentials](https://github.com/benbeezy1/AWS-Certifications/blob/main/Coursera%20RP4T38G255Q0.pdf)
+  -  [AWS Fundamental Lab Series](https://github.com/benbeezy1/AWS-Certifications/blob/main/Coursera%20certificate.pdf)
 
 
 
